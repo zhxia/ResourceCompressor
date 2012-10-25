@@ -1,4 +1,4 @@
-yuiCompressorDaemon
+ResourceCompressor
 ===================
 
-compress js and css 
+compress js and css with yuicompressor! 
